@@ -92,7 +92,9 @@ Dengan NPV positif dan B/C Ratio di atas 1, proyek ini **layak diimplementasikan
 ## 📄 Lisensi
 Proyek ini dibuat untuk tujuan akademik dalam mata kuliah **Teknik Riset Operasional**.  
 Diperbolehkan digunakan sebagai referensi dengan mencantumkan sumber dan nama penyusun asli:  
-**Fadel Rifai** – Teknik Informatika S1, 2025.
+**Fadel Ripai** – Teknik Informatika S1, 2025.
+**Tias Anggara Putra** - Teknik Informatika S1, 2025.
+**Yumaarya Sutaanjali** - Teknik Informatika S1, 2025.
 
 
 
