@@ -51,7 +51,7 @@ Setiap kategori memiliki keuntungan bersih per session yang berbeda dan menjadi 
 ## 📁 Struktur Repository
 ```
 📦 ShopFast-Sales-System-Optimization
-├── 📄 Laporan_ShopFast_FINAL_LENGKAP_DENGAN_LAMPIRAN.docx
+├── 📄 Laporan_ShopFast.docx
 ├── 📊 ShopFast_Excel_Solver.xlsx
 ├── 🐍 ShopFast_Optimasi_Python.py
 ├── 📄 README.md
