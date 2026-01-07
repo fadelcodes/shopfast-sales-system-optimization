@@ -2,7 +2,6 @@
 # 📊 ShopFast Sales System Optimization
 **Analisis dan Optimasi Sistem Informasi Penjualan Menggunakan  
 Cost–Benefit Analysis (CBA) dan Linear Programming**
-
 ---
 
 ## 📌 Deskripsi Proyek
